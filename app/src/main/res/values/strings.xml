@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PuppyAdoptionApp</string>
+    <string name="title_activity_puppy">宠物详情</string>
+</resources>
